@@ -24,6 +24,6 @@ cd Endpoint
 
 ## Compile & Run the Application
 ```bash
-javac -d out src/*.java
+javac -d out *.java
 java -cp out Main
 ```
