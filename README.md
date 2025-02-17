@@ -1,6 +1,6 @@
 # Endpoint Directory Application
 
-Java-based command-line application that simulates a directory structure. It allows users to create, move, delete, and list directories using command, The app is able to printthe results in alphabetical order using a tree structure and a tree map to achieve this.
+Java-based command-line application that simulates a directory structure. It allows users to create, move, delete, and list directories using command, The app is able to print the results in alphabetical order using a tree structure and a tree map to achieve this.
 
 ---
 
